@@ -1,3 +1,4 @@
+
 module MULT_BY_ALPHA51(b, z); 
 input [7:0] b; 
 output [7:0] z; 
